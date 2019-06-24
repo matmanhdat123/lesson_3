@@ -45,7 +45,7 @@
             android:textColor="@color/rouge"
             android:layout_centerHorizontal="true"
             android:layout_below="@+id/screen_password"/>
-    <TextView
+    <Button
             android:layout_width="@dimen/screen_user_lock_button_login_width"
             android:textSize="@dimen/button_login_size"
             android:layout_centerHorizontal="true"
@@ -75,15 +75,15 @@
             android:text="@string/button_sign_up"
             android:textColor="@color/sapphire"/>
     <ImageView
-            android:layout_width="@dimen/user1_lock_height_width"
-            android:layout_height="@dimen/user1_lock_height_width"
-            android:src="@mipmap/ic_launcher_user1"
-            android:layout_marginTop="@dimen/ic_launcher_user1_marginTop"
-            android:layout_marginLeft="@dimen/ic_launcher_user1_marginLeft"/>
+            android:layout_width="@dimen/icon_height_width"
+            android:layout_height="@dimen/icon_height_width"
+            android:src="@mipmap/icon_user"
+            android:layout_marginTop="@dimen/icon_user1_marginTop"
+            android:layout_marginLeft="@dimen/icon_user1_marginLeft"/>
     <ImageView
-            android:layout_width="@dimen/user1_lock_height_width"
-            android:layout_height="@dimen/user1_lock_height_width"
-            android:src="@mipmap/ic_launcher_lock"
-            android:layout_marginTop="@dimen/ic_launcher_lock_marginTop"
-            android:layout_marginLeft="@dimen/ic_launcher_lock_marginLeft"/>
+            android:layout_width="@dimen/icon_height_width"
+            android:layout_height="@dimen/icon_height_width"
+            android:src="@mipmap/icon_lock"
+            android:layout_marginTop="@dimen/icon_lock_marginTop"
+            android:layout_marginLeft="@dimen/icon_lock_marginLeft"/>
 </RelativeLayout>
