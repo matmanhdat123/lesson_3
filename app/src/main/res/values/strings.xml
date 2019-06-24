@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lesson_3</string>
+    <string name="keevarleo"></string>
+    <string name="key_name"><b>This is an underline</b></string>
+    <string name="screen_login">Log In</string>
+    <string name="button_login">Log in</string>
+    <string name="screen_user">keevarleo</string>
+    <string name="screen_password">Password</string>
+    <string name="screen_incorrect_password">Incorrect password.</string>
+    <string name="screen_sign_up">First ime here?</string>
+    <string name="button_sign_up">Sign up</string>
+</resources>
